@@ -1,0 +1,30 @@
+#sharedlayout-navigation
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgba(116, 115, 116, 0.20);
+    padding: 10px;
+}
+
+#sharedlayout-navbutton
+{
+    display: flex;
+    margin-left: auto;
+    gap: 10px;
+}
+
+#sharedlayout-username
+{
+    margin: auto;
+    font-weight: bold;
+}
+
+.sharedlayout-navlink
+{
+    text-decoration: none;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+

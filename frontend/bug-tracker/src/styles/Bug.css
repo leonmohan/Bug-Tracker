@@ -1,0 +1,16 @@
+#bug-complete
+{
+    background-color: rgba(0, 136, 0, 0.8);
+}
+
+#bug-incomplete
+{
+    background-color: rgba(188, 0, 0, 0.8);
+}
+
+#bug-buttons
+{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;    
+}

@@ -1,0 +1,27 @@
+#viewproject-container
+{
+    display: flex;
+    flex-direction: column;
+}
+
+#viewproject-projectdetails > div
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#viewproject-form
+{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+#viewproject-bugs
+{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
