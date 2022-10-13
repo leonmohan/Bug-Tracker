@@ -1,7 +1,7 @@
 # Bug Tracker
 ![BugTracker](https://user-images.githubusercontent.com/101066826/195493705-adb290a4-5853-45de-a6cc-10eb25f4b273.gif)
 
-### A website I built in React that allows you to create an account, projects, bugs that you can preform CRUD operations on in that project
+### A website I built in React that allows you to create an account, projects, bugs that you can preform CRUD operations on in that project. <a href="https://bug-tracker-leonmohan-frontend.herokuapp.com/">Click here to vist the demo website</a>
 
 ## Tech used: ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 For the explanations I will divide the project into two parts: Frontend and backend
